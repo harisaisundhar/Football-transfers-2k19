@@ -13,3 +13,7 @@ execution methods:-
 3)It is followed by leagueToCountry.cql to integrate leagues with country.
 4)queries.cql consists of 8 queries to be perfomed in the constructed data.
 5)Enjoy the project and give a thumbs up if you like the project.
+
+
+-The graph model.png is the schema of the constructed DB.
+-there's an example image which shows live demonstration of tranfer of griezman.
